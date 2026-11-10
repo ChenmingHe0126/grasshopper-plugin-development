@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grasshopper Testing"
+  short_description: "Core, Rhino host, saved GH definitions and UI verification"
+  default_prompt: "Use $grasshopper-testing to choose and run meaningful checks for this Grasshopper plugin change."

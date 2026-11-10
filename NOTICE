@@ -1,0 +1,13 @@
+Moyu
+https://github.com/ChenmingHe0126/moyu
+Inspected source revision: d1aa257523e929a6136937cb18aded4548d450a9
+Copyright (c) 2026 Ming. Licensed under the MIT License.
+
+This repository documents lessons learned from that implementation and the
+QSM icon-design workflow. It does not distribute Moyu's plugin binaries,
+brand artwork, private development transcripts, or machine-specific settings.
+New helper tools are generic implementations; source-specific observations
+are labeled and linked in the skill references.
+
+Rhino and Grasshopper are products of Robert McNeel & Associates.
+This community skill collection is not an official McNeel SDK or endorsement.

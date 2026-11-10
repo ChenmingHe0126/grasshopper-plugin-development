@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grasshopper Build and Release"
+  short_description: "Build and inspect Rhino plug-in release packages"
+  default_prompt: "Use $grasshopper-build-release to prepare and verify this Grasshopper plug-in's build and release artifacts."

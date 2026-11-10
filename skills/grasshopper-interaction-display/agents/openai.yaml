@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grasshopper Interaction & Display"
+  short_description: "Canvas controls, viewport sessions, input and UI state"
+  default_prompt: "Use $grasshopper-interaction-display to implement and verify this Grasshopper or Rhino interaction."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grasshopper Icons"
+  short_description: "Design and validate Grasshopper icon families"
+  default_prompt: "Use $grasshopper-icons to design or refine a coherent component icon family and verify its transparent 24-pixel PNGs."

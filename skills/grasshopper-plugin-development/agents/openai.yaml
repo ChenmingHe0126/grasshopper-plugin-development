@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grasshopper Plug-in Development"
+  short_description: "Design reliable Rhino and Grasshopper C# components"
+  default_prompt: "Use $grasshopper-plugin-development to implement this Grasshopper component with clear data, state, and host-integration contracts."

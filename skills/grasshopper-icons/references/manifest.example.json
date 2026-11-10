@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "provenance": {
+    "method": "code-drawn",
+    "tool": "original vector drawing",
+    "model": null,
+    "notes": "Original geometry rendered to transparent PNG."
+  },
+  "master_size": 512,
+  "small_size": 24,
+  "margin": 1,
+  "sheet": "sources/sheet.png",
+  "grid": {
+    "cell_size": [
+      512,
+      512
+    ],
+    "columns": 2,
+    "rows": 1,
+    "origin": [
+      0,
+      0
+    ],
+    "gutter": [
+      0,
+      0
+    ]
+  },
+  "icons": [
+    {
+      "name": "ImportSamples",
+      "cell": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "SolveFrame",
+      "file": "sources/solve.png"
+    }
+  ]
+}
